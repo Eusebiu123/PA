@@ -1,0 +1,20 @@
+compulsory/Classifiable.java
+ compulsory.Classifiable
+compulsory/Main.java
+ compulsory.Main
+compulsory/Payable.java
+ compulsory.Payable
+compulsory/Visitable.java
+ compulsory.Visitable
+compulsory/Church.java
+ compulsory.Church
+compulsory/Restaurant.java
+ compulsory.Restaurant
+compulsory/City.java
+ compulsory.City
+compulsory/Museum.java
+ compulsory.Museum
+compulsory/Location.java
+ compulsory.Location
+compulsory/Hotel.java
+ compulsory.Hotel
